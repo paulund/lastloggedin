@@ -1,0 +1,17 @@
+{
+  "name": "dappacode/lastloggedin",
+  "description": "Laravel package to log when the user logs in",
+  "type": "project",
+  "require-dev": {
+  },
+  "autoload": {
+    "psr-4": {
+      "Dappa\\LastLoggedIn\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Dappa\\LastLoggedIn\\Tests\\": "tests/"
+    }
+  }
+}
