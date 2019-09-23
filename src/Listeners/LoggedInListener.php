@@ -1,6 +1,6 @@
 <?php
 
-namespace Dappa\LastLoggedIn\Listeners;
+namespace Paulund\LastLoggedIn\Listeners;
 
 use Carbon\Carbon;
 use Illuminate\Auth\Events\Login;

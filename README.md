@@ -6,10 +6,10 @@ logged in.
 Install the package by using the command.
 
 ```
-composer require dappacode/lastloggedin --dev
+composer require paulund/lastloggedin
 ```
 
-Then add the service provider `Dappa\LastLoggedIn\LastLoggedInServiceProvider::class` to `config/app.php`
+Then add the service provider `Paulund\LastLoggedIn\LastLoggedInServiceProvider::class` to `config/app.php`
 
 # Migrate Database
 We need to add a new column to the user database table, you can do so by running the below command.
