@@ -1,8 +1,8 @@
 <?php
 
-namespace Dappa\LastLoggedIn;
+namespace Paulund\LastLoggedIn;
 
-use Dappa\LastLoggedIn\Listeners\LoggedInListener;
+use Paulund\LastLoggedIn\Listeners\LoggedInListener;
 use Illuminate\Auth\Events\Login;
 use Illuminate\Support\Facades\Event;
 use Illuminate\Support\ServiceProvider;
