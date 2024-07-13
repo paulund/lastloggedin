@@ -16,16 +16,11 @@
     }
   ],
   "require": {
-    "laravel/framework": "^5.0|^6.0|^7.0|^8.0|^9.0|^10.0"
+    "laravel/framework": "^10.0|^11.0"
   },
   "autoload": {
     "psr-4": {
       "Paulund\\LastLoggedIn\\": "src/"
-    }
-  },
-  "autoload-dev": {
-    "psr-4": {
-      "Paulund\\LastLoggedIn\\Tests\\": "tests/"
     }
   },
   "extra": {
