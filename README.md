@@ -1,8 +1,9 @@
-# Last Logged In Date
+# Last Logged In Date 
 
----
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/paulund/lastloggedin.svg?style=flat-square)](https://packagist.org/packages/paulund/lastloggedin)
+[![Total Downloads](https://img.shields.io/packagist/dt/paulund/lastloggedin.svg?style=flat-square)](https://packagist.org/packages/paulund/lastloggedin)
+
 This package will add a new column to the user database table a record the last time a user logged in.
----
 
 ## Installation
 
@@ -19,22 +20,9 @@ php artisan vendor:publish
 php artisan migrate
 ```
 
-## Changelog
-
-Please see [CHANGELOG](CHANGELOG.md) for more information on what has changed recently.
-
-## Contributing
-
-Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
-
-## Security Vulnerabilities
-
-Please review [our security policy](../../security/policy) on how to report security vulnerabilities.
-
 ## Credits
 
-- [paulund](https://github.com/paulund)
-- [All Contributors](../../contributors)
+- [paulund](https://paulund.co.uk)
 
 ## License
 
